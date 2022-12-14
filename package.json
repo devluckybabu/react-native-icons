@@ -1,0 +1,22 @@
+{
+  "name": "react-native-icons",
+  "version": "1.0.0",
+  "description": "react native icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn start"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native-icons"
+  ],
+  "author": "LUCKY BABU",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-vector-icons": "^9.2.0"
+  },
+  "devDependencies": {
+    "@types/react-native-vector-icons": "^6.4.12"
+  }
+}
